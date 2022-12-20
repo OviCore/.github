@@ -1,6 +1,7 @@
 [![](https://ovicore.com/wp-content/uploads/2021/12/logo-name-e1661135920915.png)](https://ovicore.com)
 ---
-OviCore is a financial technology company with a focus on payroll systems and being a mediary between firms and its employees. OviCore seeks to introduce the first free payroll application that will allow companies and organizations to successfully pay employees and file for employment taxes.
+Our mission at Ovicore Technologies is to empower businesses to embrace the power of the Metaverse and unlock the full potential of next-generation immersive virtual worlds. We strive to be the go-to partner for companies looking to adopt and integrate Metaverse technologies into their operations, and to provide expert guidance, training, and support to ensure their success in this exciting and rapidly-evolving space.Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ovicore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/company/ovicore) 
